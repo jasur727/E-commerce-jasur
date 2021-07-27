@@ -1,0 +1,16 @@
+.button {
+  display: flex;
+  // margin-left: auto;
+}
+
+.button-people {
+  margin-left: 20px;
+  margin-right: 38px;
+}
+
+@media only screen and (min-width: 850px) {
+  .button-people {
+    margin-left: 20px;
+    margin-right: 38px;
+  }
+}
